@@ -68,7 +68,7 @@ a {
     color: #7D53DE;
 }
 
-#places_main {
+#places_hobbies_main {
     width: 60%;
     display: flex;
     justify-content: center;
@@ -76,7 +76,7 @@ a {
     margin: auto;
 }
 
-#places_intro {
+#intro {
     margin: 5%;
 }
 
