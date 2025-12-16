@@ -67,3 +67,22 @@ a {
     text-decoration: none;
     color: #7D53DE;
 }
+
+#places_main {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+#places_intro {
+    margin: 5%;
+}
+
+.place_image {
+    width: 100%;
+    border: solid 6px #ff0000;
+    border-radius: 20px;
+    margin-top: 20%;
+}
